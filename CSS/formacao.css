@@ -113,10 +113,11 @@
     color: #8f8f8f;
 }
 
-.cursos li {
+.cursos li  {
     display: flex;
     justify-content: space-between;
 }
+
 
 @media (max-width: 800px) {
     .formacao-container {
