@@ -109,6 +109,15 @@
     margin-bottom: 20px;
 }
 
+.formacao-extra ul {
+    display: flex;
+
+}
+
+.formacao-extra a {
+    margin-right: 25px;
+}
+
 .formacao-extra span {
     color: #8f8f8f;
 }
